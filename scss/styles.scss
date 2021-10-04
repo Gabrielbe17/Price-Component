@@ -7,7 +7,7 @@ $Yellow:hsl(71, 73%, 54%);
 $LightGray: hsl(204, 43%, 93%);
 $GrayishBlue: hsl(218, 22%, 67%);
 
-$boxShadow: .1em .1em 2em .1em rgba(63, 63, 63, 0.301);
+$boxShadow: .1em .1em 2em .1em rgba(117, 116, 116, 0.15);
 $lineHeight:1.6em;
 
 // Global Styles
@@ -29,7 +29,7 @@ body{
 }
 main{
     width: 85%;
-    max-width: 46rem;
+    max-width: 44.5rem;
     border: 1px solid transparent;
     border-radius: .5em;
     overflow: hidden;
@@ -63,7 +63,7 @@ span{
 }
 // Component
 article{
-    padding: 2.5em 2.3em;
+    padding: 2em 2.1em;
 }
 .btn{
     display: inline-block;

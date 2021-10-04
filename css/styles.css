@@ -20,11 +20,11 @@ body {
 
 main {
   width: 85%;
-  max-width: 46rem;
+  max-width: 44.5rem;
   border: 1px solid transparent;
   border-radius: .5em;
   overflow: hidden;
-  box-shadow: 0.1em 0.1em 2em 0.1em rgba(63, 63, 63, 0.301);
+  box-shadow: 0.1em 0.1em 2em 0.1em rgba(117, 116, 116, 0.15);
   border: none;
 }
 
@@ -52,7 +52,7 @@ span {
 }
 
 article {
-  padding: 2.5em 2.3em;
+  padding: 2em 2.1em;
 }
 
 .btn {
@@ -63,7 +63,7 @@ article {
   background-color: #c0df34;
   border-radius: .3em;
   width: 95%;
-  box-shadow: 0.1em 0.1em 2em 0.1em rgba(63, 63, 63, 0.301);
+  box-shadow: 0.1em 0.1em 2em 0.1em rgba(117, 116, 116, 0.15);
 }
 
 .grid1 {
