@@ -111,6 +111,6 @@ article{
     h3,h2, p{color: $LightGray;}
     //Tablet Size
     @media screen and (min-width:700px){
-        @include grid;
+        @include grid();
     }
 }
